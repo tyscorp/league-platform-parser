@@ -1,0 +1,19 @@
+{
+  "name": "league-platform-parser",
+  "version": "0.0.1",
+  "description": "Parses League of Legends regionTags/platformIds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tyscorp/league-platform-parser.git"
+  },
+  "author": "Tyson Cleary <amec@tyscorp.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tyscorp/league-platform-parser/issues"
+  },
+  "homepage": "https://github.com/tyscorp/league-platform-parser"
+}
