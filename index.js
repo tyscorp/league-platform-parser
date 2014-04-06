@@ -45,9 +45,24 @@ var platforms = [
         name: 'Public Beta Environment'
     },
     {
+        regionTag: 'ph',
+        platformId: 'PH',
+        name: 'Phillipines'
+    },
+    {
         regionTag: 'ru',
-        platformId: 'RU1',
+        platformId: 'RU',
         name: 'Russia'
+    },
+    {
+        regionTag: 'sg',
+        platformId: 'SG',
+        name: 'Singapore/Malaysia'
+    },
+    {
+        regionTag: 'th',
+        platformId: 'TH',
+        name: 'Thailand'
     },
     {
         regionTag: 'tr',
@@ -58,6 +73,11 @@ var platforms = [
         regionTag: 'tw',
         platformId: 'TW',
         name: 'Taiwan'
+    },
+    {
+        regionTag: 'vn',
+        platformId: 'VN',
+        name: 'Vietnam'
     }
 ];
 
